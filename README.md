@@ -18,7 +18,7 @@ Bandit is designed to detect common security issues in Python code, making it a 
 - Virtual environment tool (venv, virtualenv, etc.)
 
 ### Initial Setup Steps
-1. Downloaded the example HR application from a GitHub repository.
+1. Downloaded the example HR application from a GitHub repository: https://github.com/awzuelsdorf/example_hr_app.git.
 2. Extracted the ZIP file to a local directory.
 3. Created a new Python virtual environment:
    ```bash
